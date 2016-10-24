@@ -1,0 +1,104 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+
+#full-wrapper{
+	background-color: #fff;
+}
+
+section{
+	display: flex !important;
+}
+
+section .container{
+	margin: 0 auto;
+	padding: 1em;
+}
+
+header{
+	position: absolute;
+	width: 100%;
+	color: #fff;
+	z-index: 2;
+}
+
+nav{
+	background-color: rgba(255, 255, 255, 0) !important
+}
+
+.nav-wrapper{
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.nav-wrapper li{
+	padding-left: 1.2em !important;
+	cursor: pointer;
+	font-weight: bold;
+}
+
+#bg{
+	background: url("../img/bg.jpg") no-repeat fixed center ;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	position: relative;
+
+}
+
+#bg > .override{
+	background-color: rgba(0, 0, 0, 0.6);
+	color: #ddd ;
+	font-size: 2em;
+	font-weight: bold;
+	position: absolute;
+	z-index: 1;
+	width: 100%;
+}
+
+#bg > .override .container{
+	color: #fff;
+	width:100%;
+	text-align: center;
+	text-align: center;
+	position: absolute;
+	top: 25%;
+}
+
+/* Las siguientes clases (quote, quote-content) son de la web de DAIALAB */
+.quote{
+	width: 100%;
+	font-weight: bold;
+	min-height: 350px;
+	position: relative;
+	background-color: #e4b21a;
+}
+
+.quote-content{
+	display: table;
+	width: 100%;
+	padding: 1em;
+	height: 300px;
+}
+
+.quote .container{
+	border-radius: 20px;
+	padding: 2em 0 !important;
+	display: table-cell !important;
+	vertical-align: middle !important;
+}
+
+footer{
+	background-color: #e4b21a;
+}
+
+#ongs{
+	background-color: #b124a6;
+	height: 500px;
+}
+
+#program{
+	background-color: #8BC34A
+}
