@@ -129,7 +129,7 @@
       </div>
       <section id="ongs">
         <div class="container">
-          <h5 class="title white">PARTICIPAN</h5>
+          <h5 class="title">PARTICIPAN</h5>
           <div class="row">
             <div class="col s12 m4 l4 ong-box">
               <div class="ong-name">ONG 1</div>
