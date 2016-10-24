@@ -72,62 +72,151 @@
     <div id="full-wrapper">
       <section id="about" class="">
         <div class="container">
-          <p>ACERCA DE</p>
+          <h5 class="title">ACERCA DE</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor. Integer in pretium eros, ac finibus magna. Suspendisse potenti. Morbi sodales lorem eu lacus rutrum, a imperdiet orci consectetur. Vestibulum congue orci nisl, ut aliquam metus mattis ut. Nulla nibh sapien, varius ac gravida et, varius ut arcu. Aliquam vel rhoncus lectus. Proin dolor dui, placerat in augue vel, vestibulum fringilla nisl.</p>
           <p>Nam quis augue posuere ante tristique semper. Mauris eu tellus dui. Nulla rutrum eros eu leo facilisis malesuada. Duis non luctus lacus. Nunc venenatis faucibus tortor, sit amet faucibus sem malesuada eget. Donec venenatis mauris a sapien rutrum, vel dignissim sapien cursus. Praesent vel tristique eros. Nunc ultricies blandit tellus, ut lacinia massa bibendum a. Integer at magna vitae lorem tincidunt sodales tincidunt vestibulum nibh. Phasellus congue est odio, in luctus purus laoreet et. Suspendisse eu sem libero. Nullam posuere nunc ligula, eget gravida elit venenatis et. Nullam at ultrices quam. Sed interdum, orci et varius tristique, mi urna lacinia felis, ut maximus ligula mauris eget purus. Nunc egestas eget lorem at elementum.</p>
         </div>
       </section>
       <section id="program" class="">
         <div class="container">
-          <p>PROGRAMA</p>
-          <div class="program-item">
-            <div>Hora: 14:00hs</div>
-            <div>Apertura</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 14:30hs</div>
-            <div>Barrileteada</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 14:30hs</div>
-            <div>Cuenta cuentos</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 16:00hs</div>
-            <div>Charla medio ambiente</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 17:00hs</div>
-            <div>Charla fortalecimiento a la organizaciones</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 17:40hs</div>
-            <div>Charla motivacional</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 18:40hs</div>
-            <div>Tango (Amigos del Tango)</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 18:40hs</div>
-            <div>Banda de Rock (El Reflejo)</div>
-          </div>
-          <div class="program-item">
-            <div>Hora: 18:40hs</div>
-            <div>Banda de Rock</div>
+          <h5 class="title gray">PROGRAMA</h5>
+          <div class="program-box">
+            <div class="program-item">
+              <div class="hour">Hora: 14:00hs</div>
+              <div>Apertura</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 14:30hs</div>
+              <div>Barrileteada</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 14:30hs</div>
+              <div>Cuenta cuentos</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 16:00hs</div>
+              <div>Charla medio ambiente</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 17:00hs</div>
+              <div class="name">Charla fortalecimiento a la organizaciones</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 17:40hs</div>
+              <div>Charla motivacional</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 18:40hs</div>
+              <div>Tango (Amigos del Tango)</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 18:40hs</div>
+              <div>Banda de Rock (El Reflejo)</div>
+            </div>
+            <div class="program-item">
+              <div class="hour">Hora: 18:40hs</div>
+              <div>Banda de Rock</div>
+            </div>
           </div>
         </div>
       </section>
       <div class="quote">
         <div class="quote-content">
           <div class="container center">
-            <p>FRASE INSPIRADORA</p>
+            <p>FRASE</p>
           </div>
         </div>
       </div>
       <section id="ongs">
         <div class="container">
-          Listado de ongs participantes
+          <h5 class="title white">PARTICIPAN</h5>
+          <div class="row">
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 1</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 2</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 3</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 4</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 5</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 6</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 7</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 8</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+            <div class="col s12 m4 l4 ong-box">
+              <div class="ong-name">ONG 9</div>
+              <div class="ong-description">
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+              </div>
+              <div class="ong-contact">
+                Links
+              </div>
+            </div>
+          </div>
         </div>
       </section>
       <section id="map">
@@ -137,7 +226,7 @@
     <footer id="contact">
       <div class="container">
         <div class="row">
-          <div class="title">CONTACTO</div>
+          <div class="title">DATOS  DE CONTACTO</div>
           <div class="col l6 m6 s12">
             <div class="row">
             </div>

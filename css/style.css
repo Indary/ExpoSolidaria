@@ -3,6 +3,25 @@ html, body{
 	padding: 0;
 }
 
+.title{
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 1px solid #111;
+	display: table;
+	margin: 0 auto;
+	padding: 0 1em;
+	margin-bottom: 1em;
+}
+.title.gray{
+	color: #ddd;
+	border-bottom: 1px solid #ddd;
+}
+.title.white{
+	background-color: inherit !important;
+	color: #fff;
+	border-bottom: 1px solid #fff;
+}
+
 #full-wrapper{
 	background-color: #fff;
 }
@@ -71,34 +90,70 @@ nav{
 .quote{
 	width: 100%;
 	font-weight: bold;
-	min-height: 350px;
+	min-height: 250px;
 	position: relative;
-	background-color: #e4b21a;
+	background-color: #FFF;
+	background: url("../img/bg.jpg") no-repeat fixed center ;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	position: relative;
 }
 
 .quote-content{
 	display: table;
 	width: 100%;
 	padding: 1em;
-	height: 300px;
+	height: 250px;
+	background-color: rgba(0, 0 ,0 ,.8)
 }
 
 .quote .container{
+	color: #fff;
 	border-radius: 20px;
 	padding: 2em 0 !important;
 	display: table-cell !important;
 	vertical-align: middle !important;
 }
 
-footer{
-	background-color: #e4b21a;
-}
-
-#ongs{
-	background-color: #b124a6;
-	height: 500px;
+#about{
+		background-color: #d6e0d9
 }
 
 #program{
-	background-color: #8BC34A
+	background-color: #b34242;
+		color: #ddd;
+}
+
+.program-box{
+	display: table;
+	margin: 0 auto;
+}
+
+.program-item{
+	border-bottom: 1px solid #d05b52;
+}
+
+.program-item .hour{
+	font-weight: bold;
+}
+
+
+#ongs{
+	background-color:#E4B21A;
+}
+
+.ong-box{
+
+}
+
+.ong-name{
+	text-align: center;
+	font-weight: bold;
+}
+
+footer{
+	background-color: #131313;
+	color: #fff;
 }
