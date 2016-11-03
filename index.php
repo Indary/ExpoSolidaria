@@ -131,89 +131,165 @@
         <div class="container">
           <h5 class="title">PARTICIPAN</h5>
           <div class="row">
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 1</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
-              </div>
-            </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 2</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
-              </div>
-            </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 3</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-blue">
+                <div class="ong-image">
+                  <img src="img/ongs/honrarlavida.jpg">
+                </div>
+                <div class="ong-description">
+                  Honrar la vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
+                  Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
+                </div>
+                <div class="ong-name">Honrar La Vida</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 4</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
-              </div>
-            </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 5</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-orange">
+                <div class="ong-image">
+                  <img src="img/ongs/payamedicos.jpg">
+                </div>
+                <div class="ong-description">
+                  Payamedicos Asociacion Civil es una ONG sin fines de lucro fundada en el año 2002 por el Dr Jose Pellucchi.<br>
+                  Su mision es contribuir a la salud emocional del paciente hospitalizado. Para tal fin se utilizan recursos psicologicos y artisticos relacionados con el payaso teatral, juegos, musica, teatro, magia y el arte humoristico en general. Los Payamedicos realizan intervenciones escenico-terapeuticas con un abordaje a traves de la tecnica del payaso teatral adaptandola al ambito hospitalario con una etica, estetica y deontologia propia. El grupo esta cartografiado por psiquiatras y psicologos con amplia experiencia en niños y adultos internados por diversas patologias organicas.
+                </div>
+                <div class="ong-name">Payamedicos</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 6</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-green">
+                <div class="ong-image">
+                  <img src="img/ongs/voluntariado.png">
+                </div>
+                <div class="ong-description">
+                  Somos un grupo de personas que donan tiempo y dedicación al servicio del paciente internado y familiares.<br>
+                  El voluntariado es la organización de personas con gran dosis de humanidad que ofrece un servicio desinteresado, constante, y eficaz. Nuestro objetivo es: dar amor y consuelo al enfermo,colaborar con el paciente y sus familiares, escuchar las angustias del paciente., ayudar a afrontar su enfermedad sin sentirse solo.
+                </div>
+                <div class="ong-name">Voluntariado Hospital Regional</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
           </div>
           <div class="row">
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 7</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-pink">
+                <div class="ong-image">
+                  <img src="img/ongs/corazoncitofeliz.jpg">
+                </div>
+                <div class="ong-description">
+                  Somos un grupo de personas que aprecian la vida, que entienden la solidaridad como una actitud constante.<br>
+                  Buscamos crear un lazo entre las familias y que ellas sean las protagonistas de transformar sus vidas.
+                </div>
+                <div class="ong-name">Juntos por un corazoncito feliz</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 8</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
-              </div>
-              <div class="ong-contact">
-                Links
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-purple">
+                <div class="ong-image">
+                  <img src="img/ongs/apaec.jpg">
+                </div>
+                <div class="ong-description">
+                  El objetivo fundamental de la Institución es la prevención, concientización y detección temprana de los distintos cánceres que hoy afectan a la población del mundo, como también la asistencia a los pacientes durante su  tratamiento, especialmente a quienes  no poseen obra social.
+                </div>
+                <div class="ong-name">APAeC</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
-            <div class="col s12 m4 l4 ong-box">
-              <div class="ong-name">ONG 9</div>
-              <div class="ong-description">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor.</p>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-blue">
+                <div class="ong-image">
+                  <img src="img/ongs/astra.jpg">
+                </div>
+                <div class="ong-description">
+                  Fundada en el año 2007 por un grupo de los vecinos, comprometidos con la realidad social y con la cultura, que viendo la necesidad de los niños, jóvenes y adultos tomaron la decisión de conformar esta asociación civil con el fin de promover el desarrollo de la cultura y la educación permanente.
+                </div>
+                <div class="ong-name">Biblioteca Popular Astra</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
-              <div class="ong-contact">
-                Links
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-orange">
+                <div class="ong-image">
+                  <img src="img/ongs/elumduham.jpg">
+                </div>
+                <div class="ong-description">
+                  Nuestra misiòn es el desarrollo de la comunidad mediante la organizaciòn de actividades culturales y recreativas, asì como el prèstamo de libros
+                </div>
+                <div class="ong-name">Biblioteca Popular Elum Duham</div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-green">
+                <div class="ong-image">
+                  <img src="img/ongs/#">
+                </div>
+                <div class="ong-description">
+
+                </div>
+                <div class="ong-name"></div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-purple">
+                <div class="ong-image">
+                  <img src="img/ongs/#">
+                </div>
+                <div class="ong-description">
+
+                </div>
+                <div class="ong-name"></div>
+                <div class="ong-contact">
+                  Dirección<br>
+                  Telefono<br>
+                  email<br>
+                  Facebook | Twitter
+                </div>
               </div>
             </div>
           </div>
@@ -244,5 +320,12 @@
         </div>
       </div>
     </footer>
+    <script>
+      $('.ong-box').on('mouseenter', function(){
+        $(this).find('.ong-description').css('min-height', $(this).height()).css('max-height', $(this).height()).fadeIn(1000);
+      }).on('mouseleave', function(){
+        $(this).find('.ong-description').fadeOut(500);
+      });
+    </script>
   </body>
 </html>

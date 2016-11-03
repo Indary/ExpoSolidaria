@@ -145,12 +145,89 @@ nav{
 }
 
 .ong-box{
-
+	background-color: #333;
+	color: #ddd;
+	position: relative;
 }
 
 .ong-name{
 	text-align: center;
 	font-weight: bold;
+}
+
+.ong-image{
+	height: 200px;
+	text-align: center;
+	background-color: #fff;
+	border-bottom: 2px solid #666;
+	overflow: hidden;
+}
+
+.ong-image img{
+	max-width: 100%;
+	max-height: 196px;
+}
+
+.ong-description{
+	padding:1em;
+	box-sizing: padding-box;
+	font-size: .8em;
+	display: none;
+	color: #fff;
+	position: absolute;
+  top: 0;
+	left:0;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+
+.ong-box-blue .ong-description{
+	background-color: #386aa5;
+}
+
+.ong-box-blue .ong-image{
+	border-top: 4px solid #386aa5;
+	border-bottom: 4px solid #386aa5;
+}
+
+.ong-box-orange .ong-description{
+	background-color: #f07f31;
+}
+
+.ong-box-orange .ong-image{
+	border-top: 4px solid #f07f31;
+	border-bottom: 4px solid #f07f31;
+}
+
+.ong-box-green .ong-description{
+	background-color: #009641;
+}
+
+.ong-box-green .ong-image{
+	border-top: 4px solid #009641;
+	border-bottom: 4px solid #009641;
+}
+
+.ong-box-pink .ong-description{
+	background-color: #e82583;
+}
+
+.ong-box-pink .ong-image{
+	border-top: 4px solid #e82583;
+	border-bottom: 4px solid #e82583;
+}
+
+.ong-box-purple .ong-description{
+	background-color: #852a7a;
+}
+
+.ong-box-purple .ong-image{
+	border-top: 4px solid #852a7a;
+	border-bottom: 4px solid #852a7a;
+}
+
+.ong-contact{
+	text-align: center;
 }
 
 footer{
