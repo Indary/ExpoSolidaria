@@ -133,55 +133,67 @@
           <div class="row">
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-blue">
-                <div class="ong-image">
-                  <img src="img/ongs/honrarlavida.jpg">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/honrarlavida.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Honrar la vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
+                    Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
+                  </div>
+                  <div class="ong-name">Honrar La Vida</div>
+                  <div class="ong-contact">
+                    (297) 537-4788<br>
+                    honrarlavida2016@gmail.com<br>
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Honrar la vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
-                  Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
-                </div>
-                <div class="ong-name">Honrar La Vida</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="#" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-orange">
-                <div class="ong-image">
-                  <img src="img/ongs/payamedicos.jpg">
+                <div class="ong-box-container"></div>
+                <div class="ong-box-links"></div>
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/payamedicos.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Payamedicos Asociacion Civil es una ONG sin fines de lucro fundada en el año 2002 por el Dr Jose Pellucchi.<br>
+                    Su mision es contribuir a la salud emocional del paciente hospitalizado. Para tal fin se utilizan recursos psicologicos y artisticos relacionados con el payaso teatral, juegos, musica, teatro, magia y el arte humoristico en general. Los Payamedicos realizan intervenciones escenico-terapeuticas con un abordaje a traves de la tecnica del payaso teatral adaptandola al ambito hospitalario con una etica, estetica y deontologia propia. El grupo esta cartografiado por psiquiatras y psicologos con amplia experiencia en niños y adultos internados por diversas patologias organicas.
+                  </div>
+                  <div class="ong-name">Payamedicos</div>
+                  <div class="ong-contact">
+                    payamedicoscomodoro@gmail.com
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Payamedicos Asociacion Civil es una ONG sin fines de lucro fundada en el año 2002 por el Dr Jose Pellucchi.<br>
-                  Su mision es contribuir a la salud emocional del paciente hospitalizado. Para tal fin se utilizan recursos psicologicos y artisticos relacionados con el payaso teatral, juegos, musica, teatro, magia y el arte humoristico en general. Los Payamedicos realizan intervenciones escenico-terapeuticas con un abordaje a traves de la tecnica del payaso teatral adaptandola al ambito hospitalario con una etica, estetica y deontologia propia. El grupo esta cartografiado por psiquiatras y psicologos con amplia experiencia en niños y adultos internados por diversas patologias organicas.
-                </div>
-                <div class="ong-name">Payamedicos</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/payamedicos.chubut" target="_blank"><span class="facebook"></span></a>
+                  <a href="www.payamedicos.org" target="_blank"><span class="web"></span></a>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-green">
-                <div class="ong-image">
-                  <img src="img/ongs/voluntariado.png">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/voluntariado.png">
+                  </div>
+                  <div class="ong-description">
+                    Somos un grupo de personas que donan tiempo y dedicación al servicio del paciente internado y familiares.<br>
+                    El voluntariado es la organización de personas con gran dosis de humanidad que ofrece un servicio desinteresado, constante, y eficaz. Nuestro objetivo es: dar amor y consuelo al enfermo,colaborar con el paciente y sus familiares, escuchar las angustias del paciente., ayudar a afrontar su enfermedad sin sentirse solo.
+                  </div>
+                  <div class="ong-name">Voluntariado Hospital Regional</div>
+                  <div class="ong-contact">
+                    Hipólito Irigiyen 950 Piso 4<br>
+                    4442222<br>
+                    voluntariadocomodororivadavia@gmail.com<br>
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Somos un grupo de personas que donan tiempo y dedicación al servicio del paciente internado y familiares.<br>
-                  El voluntariado es la organización de personas con gran dosis de humanidad que ofrece un servicio desinteresado, constante, y eficaz. Nuestro objetivo es: dar amor y consuelo al enfermo,colaborar con el paciente y sus familiares, escuchar las angustias del paciente., ayudar a afrontar su enfermedad sin sentirse solo.
-                </div>
-                <div class="ong-name">Voluntariado Hospital Regional</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Voluntariado-Hospital-Regional-Comodoro-Rivadavia-280606538649608" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
@@ -189,53 +201,61 @@
           <div class="row">
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-pink">
-                <div class="ong-image">
-                  <img src="img/ongs/corazoncitofeliz.jpg">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/corazoncitofeliz.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Somos un grupo de personas que aprecian la vida, que entienden la solidaridad como una actitud constante.<br>
+                    Buscamos crear un lazo entre las familias y que ellas sean las protagonistas de transformar sus vidas.
+                  </div>
+                  <div class="ong-name">Juntos por un corazoncito feliz</div>
+                  <div class="ong-contact">
+                    (297) 401-9411<br>
+                    uncorazoncitofeliz@gmail.com<br>
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Somos un grupo de personas que aprecian la vida, que entienden la solidaridad como una actitud constante.<br>
-                  Buscamos crear un lazo entre las familias y que ellas sean las protagonistas de transformar sus vidas.
-                </div>
-                <div class="ong-name">Juntos por un corazoncito feliz</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/JuntosPorUnCorazoncitoFeliz" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-purple">
-                <div class="ong-image">
-                  <img src="img/ongs/apaec.jpg">
-                </div>
-                <div class="ong-description">
-                  El objetivo fundamental de la Institución es la prevención, concientización y detección temprana de los distintos cánceres que hoy afectan a la población del mundo, como también la asistencia a los pacientes durante su  tratamiento, especialmente a quienes  no poseen obra social.
-                </div>
-                <div class="ong-name">APAeC</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/apaec.jpg">
+                  </div>
+                  <div class="ong-description">
+                    El objetivo fundamental de la Institución es la prevención, concientización y detección temprana de los distintos cánceres que hoy afectan a la población del mundo, como también la asistencia a los pacientes durante su  tratamiento, especialmente a quienes  no poseen obra social.
+                  </div>
+                  <div class="ong-name">APAeC</div>
+                  <div class="ong-contact">
+                    (297) 413-4694<br>
+                    (297) 435-4866
+                  </div>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-blue">
-                <div class="ong-image">
-                  <img src="img/ongs/astra.jpg">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/astra.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Fundada en el año 2007 por un grupo de los vecinos, comprometidos con la realidad social y con la cultura, que viendo la necesidad de los niños, jóvenes y adultos tomaron la decisión de conformar esta asociación civil con el fin de promover el desarrollo de la cultura y la educación permanente.
+                  </div>
+                  <div class="ong-name">Biblioteca Popular Astra</div>
+                  <div class="ong-contact">
+                    Simeon Savino 1120 - Astra<br>
+                    (297) 486-5057<br>
+                    hola@labibliotecadeastra.com<br>
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Fundada en el año 2007 por un grupo de los vecinos, comprometidos con la realidad social y con la cultura, que viendo la necesidad de los niños, jóvenes y adultos tomaron la decisión de conformar esta asociación civil con el fin de promover el desarrollo de la cultura y la educación permanente.
-                </div>
-                <div class="ong-name">Biblioteca Popular Astra</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/labibliotecadeastra" target="_blank"><span class="facebook"></span></a>
+                  <a href="www.labibliotecadeastra.com" target="_blank"><span class="web"></span></a>
                 </div>
               </div>
             </div>
@@ -243,52 +263,195 @@
           <div class="row">
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-orange">
-                <div class="ong-image">
-                  <img src="img/ongs/elumduham.jpg">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/elumduham.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Nuestra misiòn es el desarrollo de la comunidad mediante la organizaciòn de actividades culturales y recreativas, asì como el prèstamo de libros
+                  </div>
+                  <div class="ong-name">Biblioteca Popular Elum Duham</div>
+                  <div class="ong-contact">
+                    Av. Polonia 1785<br>
+                    2976235857<br>
+                    elumduham@yahoo.com.ar
+                  </div>
                 </div>
-                <div class="ong-description">
-                  Nuestra misiòn es el desarrollo de la comunidad mediante la organizaciòn de actividades culturales y recreativas, asì como el prèstamo de libros
-                </div>
-                <div class="ong-name">Biblioteca Popular Elum Duham</div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Biblioteca-Popular-ELUM-DUHAM-Dar-Memoria-189284524476152" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-green">
-                <div class="ong-image">
-                  <img src="img/ongs/#">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/tupapel.png">
+                  </div>
+                  <div class="ong-description">
+                    Plantamos arboles y sembramos conciencia...<br>
+                    Desde el comienzo (mediados de 2014) a la fecha encaminamos el reciclado de mas de 48.000 kg de papel y sumamos 225 nuevos arboles a la ciudad.
+                  </div>
+                  <div class="ong-name">Tu papel es muy importante</div>
+                  <div class="ong-contact">
+                  </div>
                 </div>
-                <div class="ong-description">
-
-                </div>
-                <div class="ong-name"></div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/groups/668232696598054" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-purple">
-                <div class="ong-image">
-                  <img src="img/ongs/#">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/ceviof.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Brindamos asesoramiento ,información y acompañamiento en temas de Violencia Familiar, Maltrato infantil y Abuso sexual Infantil, tanto a víctimas como a referentes de la comunidad e instituciones.
+                    <br>
+                    Además, realizamos acciones de capacitación, investigación y difusión de la problemática de la Violencia Familiar, tendientes a la sensibilización y la creación de redes de contención.
+                  </div>
+                  <div class="ong-name">Centro de Violencia Familiar</div>
+                  <div class="ong-contact"></div>
                 </div>
-                <div class="ong-description">
-
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-orange">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/patioabierto.png">
+                  </div>
+                  <div class="ong-description">
+                    Nuestro primer objetivo es tratar de mejorar la situación en la que se encuentran los niños y adolescentes de los barrios Pietrobelli, Las Flores, La Floresta y Balcon del Paraíso, los cuales viven inmersos en una realidad de mucho conflicto y marginados del sistema social, cultural y educativo.
+                  </div>
+                  <div class="ong-name">Patio Abierto</div>
+                  <div class="ong-contact">
+                    Alem y Huergo<br>
+                    (297) 446-2886​<br>
+                    contacto@patioabierto.org
+                  </div>
                 </div>
-                <div class="ong-name"></div>
-                <div class="ong-contact">
-                  Dirección<br>
-                  Telefono<br>
-                  email<br>
-                  Facebook | Twitter
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/CentroJuvenilPatioAbierto" target="_blank"><span class="facebook"></span></a>
+                  <a href="http://www.patioabierto.org/" target="_blank"><span class="web"></span></a>
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-green">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/felizentudia.gif">
+                  </div>
+                  <div class="ong-description">
+                    Nacimos hace dos años, en setiembre de 2014, con el propósito de festejar cumpleaños a chicos de familias de bajos recursos. Los realizamos gracias a las donaciones de la gente que ya conoce de nuestra actividad y de la que siempre se va sumando a medida que van conocciendo lo que hacemos.
+                  </div>
+                  <div class="ong-name">Feliz en tu día</div>
+                  <div class="ong-contact">
+                    (297) 414-7197<br>
+                    (297) 414-7197
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Felizentudiacomodoro" target="_blank"><span class="facebook"></span></a>
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-purple">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/fundacioncrecer.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Trabajamos para Incluir a Personas con Discapacidad o niños con Necesidades Educativas Especiales y sus familias a la comunidad, por medio de cinco programas de atención integral.
+                  </div>
+                  <div class="ong-name">Fundación Crecer</div>
+                  <div class="ong-contact">
+                    Hipólito Yrigoyen 846<br>
+                    (297) 446-4067<br>
+                    (297) 446-7402<br>
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/fundacioncrecer.comodororivadavia" target="_blank"><span class="facebook"></span></a>
+                  <a href="http://www.crecerfundacion.org.ar" target="_blank"><span class="web"></span></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-orange">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <!--<img src="img/ongs">-->
+                  </div>
+                  <div class="ong-description">
+                    Institución Internacional Solidaria con la amplio programa de actividades comunitarias
+                  </div>
+                  <div class="ong-name">Rotary Club C.R. Oeste</div>
+                  <div class="ong-contact">
+                    San Martín 1584<br>
+                    (297) 406-0732​<br>
+                    rotaryoeste@comodoro.coop
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-green">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/adc.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Este grupo surge como espacio integrador y de colaboración hacia un   voluntariado ambiental, ante la necesidad de abordar una problemática cada vez en aumento como la creación clandestina de “mini basurales” constituidos por residuos sólidos depositados en áreas abiertas (locaciones petroleras, baldíos y al costado de caminos) en los cerros Viteau y Hermite del Barrio Gral. Mosconi.
+                  </div>
+                  <div class="ong-name">Amigos del cerro</div>
+                  <div class="ong-contact">
+                    B° General Mosconi<br>
+                    (297) 400-0635<br>
+                    (297) 422-3300
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Felizentudiacomodoro" target="_blank"><span class="facebook"></span></a>
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-purple">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/rotary.jpg">
+                  </div>
+                  <div class="ong-description">
+                    Rotary se compone de un millón doscientos mil socios, entre los cuales encontrarás a vecinos, amigos y líderes comunitarios, que unidos impulsan cambios para mejorar la vida en la propia localidad y el mundo entero.
+                    <br><br>
+                    Las Prioridades estratégicas de RI:
+                    <ul>
+                      <li>Fomento de la paz, prevención y resolución de conflictos.</li>
+                      <li>Prevención y tratamiento de enfermedades.</li>
+                      <li>Suministro de agua y saneamiento.</li>
+                      <li>Salud materno-infantil.</li>
+                      <li>Alfabetización y salud básica.</li>
+                      <li>Desarrollo económico e integral de la comunidad.</li>
+                    </ul>
+                  </div>
+                  <div class="ong-name">Rotary</div>
+                  <div class="ong-contact">
+                    Figueroa Alcorta 564<br>
+                    (297) 404-4487<br>
+                    rotary.comodoro@gmail.com
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/RotaryComodoro" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
@@ -321,8 +484,8 @@
       </div>
     </footer>
     <script>
-      $('.ong-box').on('mouseenter', function(){
-        $(this).find('.ong-description').css('min-height', $(this).height()).css('max-height', $(this).height()).fadeIn(1000);
+      $('.ong-box-container').on('mouseenter', function(){
+        $(this).find('.ong-description').css('min-height', $(this).parent().height()).css('max-height', $(this).parent().height()).fadeIn(1000);
       }).on('mouseleave', function(){
         $(this).find('.ong-description').fadeOut(500);
       });
