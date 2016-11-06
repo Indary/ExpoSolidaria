@@ -93,7 +93,7 @@ nav{
 	min-height: 250px;
 	position: relative;
 	background-color: #FFF;
-	background: url("../img/bg.jpg") no-repeat fixed center ;
+	background: url("../img/art/bg.jpg") no-repeat fixed center ;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -105,8 +105,8 @@ nav{
 	display: table;
 	width: 100%;
 	padding: 1em;
-	height: 250px;
-	background-color: rgba(0, 0 ,0 ,.8)
+	height: 300px;
+	background-color: rgba(0, 0 ,0 ,.7)
 }
 
 .quote .container{
@@ -118,30 +118,76 @@ nav{
 }
 
 #about{
-		background-color: #d6e0d9
+		background-color: #386aa5;
+		color: #eee;
+}
+
+#map{
+	border-top: 2px solid #e82583;
+	border-bottom: 2px solid #e82583;
 }
 
 #program{
-	background-color: #b34242;
-		color: #ddd;
-}
-
-.program-box{
-	display: table;
-	margin: 0 auto;
+	background-color: #fff;
+	color: #111;
 }
 
 .program-item{
-	border-bottom: 1px solid #d05b52;
+	max-width: 420px;
+	margin: 0 auto;
+	padding: 1.2em;
+	border-radius: 10px;
+	border-width: 2px;
+	border-style: solid;
+	box-shadow: 5px 5px 5px 0 rgba(0,0,0,.5);
 }
 
-.program-item .hour{
+.pi-hour{
 	font-weight: bold;
 }
 
+.program-item-blue{
+	border-color: #386aa5;
+}
+
+.program-item-blue .pi-hour, .program-item-blue .pi-title{
+	color: #386aa5;
+}
+
+.program-item-orange{
+	border-color: #f07f31;
+}
+
+.program-item-orange .pi-hour, .program-item-orange .pi-title{
+	color: #f07f31;
+}
+
+.program-item-green{
+	border-color: #009641;
+}
+
+.program-item-green .pi-hour, .program-item-green .pi-title{
+	color: #009641;
+}
+
+.program-item-pink{
+	border-color: #e82583;
+}
+
+.program-item-pink .pi-hour, .program-item-pink .pi-title{
+	color: #e82583;
+}
+
+.program-item-purple{
+	border-color: #852a7a;
+}
+
+.program-item-purple .pi-hour, .program-item-purple .pi-title{
+	color: #852a7a;
+}
 
 #ongs{
-	background-color:#cddc39;
+	background-color:#fff;
 }
 
 .ong-box{
@@ -162,6 +208,8 @@ nav{
 	background-color: #fff;
 	border-bottom: 2px solid #666;
 	overflow: hidden;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
 }
 
 .ong-image img{
@@ -187,7 +235,7 @@ nav{
 }
 
 .ong-box-blue .ong-image{
-	border-top: 4px solid #386aa5;
+	border-top: 6px solid #386aa5;
 	border-bottom: 4px solid #386aa5;
 }
 
@@ -196,7 +244,7 @@ nav{
 }
 
 .ong-box-orange .ong-image{
-	border-top: 4px solid #f07f31;
+	border-top: 6px solid #f07f31;
 	border-bottom: 4px solid #f07f31;
 }
 
@@ -205,7 +253,7 @@ nav{
 }
 
 .ong-box-green .ong-image{
-	border-top: 4px solid #009641;
+	border-top: 6px solid #009641;
 	border-bottom: 4px solid #009641;
 }
 
@@ -214,7 +262,7 @@ nav{
 }
 
 .ong-box-pink .ong-image{
-	border-top: 4px solid #e82583;
+	border-top: 6px solid #e82583;
 	border-bottom: 4px solid #e82583;
 }
 
@@ -223,7 +271,7 @@ nav{
 }
 
 .ong-box-purple .ong-image{
-	border-top: 4px solid #852a7a;
+	border-top: 6px solid #852a7a;
 	border-bottom: 4px solid #852a7a;
 }
 
@@ -239,8 +287,9 @@ nav{
 }
 
 footer{
-	background-color: #131313;
-	color: #fff;
+	border-top: 2px solid #e82583;
+	background-color: #fafafa;
+	color: #e82583;
 }
 /* contact icons */
 .facebook{
