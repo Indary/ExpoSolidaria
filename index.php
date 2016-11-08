@@ -260,9 +260,13 @@
                   </div>
                   <div class="ong-name">APAeC</div>
                   <div class="ong-contact">
-                    (297) 413-4694<br>
-                    (297) 435-4866
+                    Avda.Sargento Cabral 351<br>
+                    (297) 447-5450<br>
+                    prevencionyasistenciaen_c@yahoo.com
                   </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/prevencion.cancer" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
@@ -297,7 +301,7 @@
                     <img src="img/ongs/elumduham.jpg">
                   </div>
                   <div class="ong-description">
-                    Nuestra misiòn es el desarrollo de la comunidad mediante la organizaciòn de actividades culturales y recreativas, asì como el prèstamo de libros
+                    Nuestra misión es el desarrollo de la comunidad mediante la organizaciòn de actividades culturales y recreativas, asì como el prèstamo de libros
                   </div>
                   <div class="ong-name">Biblioteca Popular Elum Duham</div>
                   <div class="ong-contact">
@@ -342,7 +346,13 @@
                     Además, realizamos acciones de capacitación, investigación y difusión de la problemática de la Violencia Familiar, tendientes a la sensibilización y la creación de redes de contención.
                   </div>
                   <div class="ong-name">Centro de Violencia Familiar</div>
-                  <div class="ong-contact"></div>
+                  <div class="ong-contact">
+                    procapi@yahoo.com.ar
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/PROCAPI-143994762360094" target="_blank"><span class="facebook"></span></a>
+                  <a href="http://centroderecursos.com.ar" target="_blank"><span class="web"></span></a>
                 </div>
               </div>
             </div>
@@ -483,6 +493,64 @@
                   <a href="https://www.facebook.com/RotaryComodoro" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-blue">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/leones.jpg">
+                  </div>
+                  <div class="ong-description">
+                    La familia Leonística está compuesta por más de 1.400.000 hombres, mujeres y jóvenes, diferentes en muchos aspectos, pero con un mismo objetivo: producir cambios positivos en nuestras comunidades.
+                    En la actualidad hay más de 46.000 Clubes de Leones ubicados en 207 países y áreas geográficas, desde allí se preocupan por las necesidades de las comunidades locales y del mundo sirviendo con alegría a quienes más necesitan.
+                  </div>
+                  <div class="ong-name">Club de Leones de Rada Tilly</div>
+                  <div class="ong-contact">
+                    Combate de Quilmes 729<br>
+                    (297) 15-476-0076
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Club-De-Leones-Rada-Tilly-1432636833708030" target="_blank"><span class="facebook"></span></a>
+                </div>
+              </div>
+            </div>
+            <div class="col s12 m4 l4">
+              <!--<div class="ong-box ong-box-orange">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/">
+                  </div>
+                  <div class="ong-description">
+
+                  </div>
+                  <div class="ong-name"></div>
+                  <div class="ong-contact">
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="https://www.facebook.com/Felizentudiacomodoro" target="_blank"><span class="facebook"></span></a>
+                </div>
+              </div>-->
+            </div>
+            <div class="col s12 m4 l4">
+              <!--<div class="ong-box ong-box-green">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/">
+                  </div>
+                  <div class="ong-description">
+                  </div>
+                  <div class="ong-name"></div>
+                  <div class="ong-contact">
+                  </div>
+                </div>
+                <div class="ong-box-links">
+                  <a href="" target="_blank"><span class="facebook"></span></a>
+                </div>
+              </div>-->
             </div>
           </div>
         </div>
