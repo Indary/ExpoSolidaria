@@ -7,10 +7,21 @@
 
 .indary{
   font-family: Rancho;
-  color: #f75353;
   font-size: 2em;
 }
-.indary.i-white{
 
+.i-red{
+  color: #f75353;
+}
+
+.i-white{
   color: #fff;
+}
+
+.i-dark{
+  color: #444;
+}
+
+.i-heart{
+  font-size: 1.3em;
 }

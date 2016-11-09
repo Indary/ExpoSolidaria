@@ -13,7 +13,7 @@
     <meta name="keywords" content="">
     <meta name="description" content="Exposolidaria 2016 - Una forma de hacer">
     <meta name="author" content="Indary">
-    <meta name="theme-color" content="#12356b">
+    <meta name="theme-color" content="#e82583">
     <!-- TWITTER -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@exposolidara">
@@ -35,8 +35,8 @@
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
     <!--Import Google Icon Font-->
      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="libs/materialize/css/materialize.min.css" type="text/css">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="libs/wow/css/libs/animate.css" type="text/css">
     <link rel="stylesheet" href="libs/indary/css/indary.css" type="text/css">
     <script src="libs/jquery/jquery-1.11.3.min.js"></script>
@@ -48,25 +48,31 @@
       <nav id="nav">
         <div class="nav-wrapper">
           <div class="brand-logo center">
+            <img id="logo_blue" src="img/logo.jpg"/>
           </div>
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul id="menu" class="right hide-on-med-and-down">
-            <li class="menu-item" data-target="bg">INICIO</li>
+            <li class="menu-item" data-target="about">ACERCA DE</li>
+            <li class="menu-item" data-target="program">PROGRAMA</li>
+            <li class="menu-item" data-target="ongs">PARTICIPAN</li>
+            <li class="menu-item" data-target="contact">CONTACTO</li>
           </ul>
-          <ul class="side-nav bg-blue" id="mobile-demo">
-            <li class="menu-item" data-target="bg">INICIO</li>
+          <ul class="side-nav" id="mobile-demo">
+            <li class="menu-item" data-target="about">ACERCA DE</li>
+            <li class="menu-item" data-target="program">PROGRAMA</li>
+            <li class="menu-item" data-target="ongs">PARTICIPAN</li>
+            <li class="menu-item" data-target="contact">CONTACTO</li>
           </ul>
         </div>
       </nav>
     </header>
     <div id="bg">
-      <div class="override">
-        <div class="container center">
-          <h1 class="">#exposolidaria</h1>
-          <h3 class="">UNA FORMA DE HACER</h3>
-          <h4 class="expo-date">04 DE DICIEMBRE - COMODORO RIVADAVIA</h4>
-          <div id="timer"></div>
-        </div>
+      <div class="override"></div>
+      <div class="center">
+        <h1 class="">#exposolidaria</h1>
+        <h3 class="">UNA FORMA DE HACER</h3>
+        <h4 class="expo-date">04 DE DICIEMBRE - COMODORO RIVADAVIA</h4>
+        <div id="timer"></div>
       </div>
     </div>
     <div id="full-wrapper">
@@ -81,7 +87,7 @@
       </section>
       <section id="program" class="">
         <div class="container">
-          <h5 class="title">PROGRAMA</h5>
+          <h5 class="title tpink">PROGRAMA</h5>
           <div class="row">
             <div class="col s12 m6 l6">
               <div class="program-item program-item-blue">
@@ -158,26 +164,26 @@
       </div>
       <section id="ongs">
         <div class="container">
-          <h5 class="title">PARTICIPAN</h5>
+          <h5 class="title tpink">PARTICIPAN</h5>
           <div class="row">
             <div class="col s12 m4 l4">
               <div class="ong-box ong-box-blue">
                 <div class="ong-box-container">
                   <div class="ong-image">
-                    <img src="img/ongs/honrarlavida.jpg">
+                    <img src="img/ongs/esperanzayvida.jpg">
                   </div>
                   <div class="ong-description">
-                    Honrar la vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
+                    Esperanza vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
                     Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
                   </div>
-                  <div class="ong-name">Honrar La Vida</div>
+                  <div class="ong-name">Esperanza Y Vida</div>
                   <div class="ong-contact">
-                    (297) 537-4788<br>
-                    honrarlavida2016@gmail.com<br>
+                    (297) 537-5159<br>
+                    fundacionesperanzayvida2016@gmail.com<br>
                   </div>
                 </div>
                 <div class="ong-box-links">
-                  <a href="#" target="_blank"><span class="facebook"></span></a>
+                  <a href="https://www.facebook.com/fundacionesperanzayvida2016" target="_blank"><span class="facebook"></span></a>
                 </div>
               </div>
             </div>
@@ -518,22 +524,26 @@
               </div>
             </div>
             <div class="col s12 m4 l4">
-              <!--<div class="ong-box ong-box-orange">
+              <div class="ong-box ong-box-orange">
                 <div class="ong-box-container">
                   <div class="ong-image">
-                    <img src="img/ongs/">
+                    <img src="img/ongs/cruzroja.jpg">
                   </div>
                   <div class="ong-description">
-
+                    Cruz Roja Argentina es una asociación civil de bien común, humanitaria y de carácter voluntario. Fundada el día 10 de junio de 1880 y constituida de acuerdo con los Convenios de Ginebra de 1949 (y sus Protocolos Adicionales), de los cuales la República Argentina es parte.
                   </div>
-                  <div class="ong-name"></div>
+                  <div class="ong-name">Cruz Roja Argentina</div>
                   <div class="ong-contact">
+                    Av. Del Libertador 659 - Km 3<br>
+                    (297) 455-9374<br>
+                    c-rivadavia@cruzroja.org.ar
                   </div>
                 </div>
                 <div class="ong-box-links">
-                  <a href="https://www.facebook.com/Felizentudiacomodoro" target="_blank"><span class="facebook"></span></a>
+                  <a href="https://www.facebook.com/CruzRoja.FilialComRiv" target="_blank"><span class="facebook"></span></a>
+                  <a href="www.cruzroja.org.ar" target="_blank"><span class="web"></span></a>
                 </div>
-              </div>-->
+              </div>
             </div>
             <div class="col s12 m4 l4">
               <!--<div class="ong-box ong-box-green">
@@ -556,7 +566,7 @@
         </div>
       </section>
     </div>
-    <footer id="contact">
+    <footer id="contact" class="tpink">
       <div class="container">
         <div class="row">
           <div class="col l12 m12 s12">
@@ -576,16 +586,12 @@
       </div>
       <div class="center">
         <div class="container">
-          <div><span class="indary">Indary</span></div>
+          <div>
+            <b class="i-dark">Made with <span class="i-red i-heart">&#9825;</span> by</b><br>
+            <a href="http://www.indary.org" target="_blank"><span class="indary i-red">Indary!</span></a>
+          </div>
         </div>
       </div>
     </footer>
-    <script>
-      $('.ong-box-container').on('mouseenter', function(){
-        $(this).find('.ong-description').css('min-height', $(this).parent().height()).css('max-height', $(this).parent().height()).fadeIn(1000);
-      }).on('mouseleave', function(){
-        $(this).find('.ong-description').fadeOut(500);
-      });
-    </script>
   </body>
 </html>
