@@ -86,8 +86,17 @@
     <div id="full-wrapper">
       <section id="about" class="">
         <div class="container">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi a orci eu orci lacinia finibus. Aenean et mi eros. Nam in sodales dolor. Integer in pretium eros, ac finibus magna. Suspendisse potenti. Morbi sodales lorem eu lacus rutrum, a imperdiet orci consectetur. Vestibulum congue orci nisl, ut aliquam metus mattis ut. Nulla nibh sapien, varius ac gravida et, varius ut arcu. Aliquam vel rhoncus lectus. Proin dolor dui, placerat in augue vel, vestibulum fringilla nisl.</p>
-          <p>Nam quis augue posuere ante tristique semper. Mauris eu tellus dui. Nulla rutrum eros eu leo facilisis malesuada. Duis non luctus lacus. Nunc venenatis faucibus tortor, sit amet faucibus sem malesuada eget. Donec venenatis mauris a sapien rutrum, vel dignissim sapien cursus. Praesent vel tristique eros. Nunc ultricies blandit tellus, ut lacinia massa bibendum a. Integer at magna vitae lorem tincidunt sodales tincidunt vestibulum nibh. Phasellus congue est odio, in luctus purus laoreet et. Suspendisse eu sem libero. Nullam posuere nunc ligula, eget gravida elit venenatis et. Nullam at ultrices quam. Sed interdum, orci et varius tristique, mi urna lacinia felis, ut maximus ligula mauris eget purus. Nunc egestas eget lorem at elementum.</p>
+          <p>
+            La Expo-solidaria surge con el fin de generar lazos y conocimiento entre las diferentes organizaciones que se encuentran trabajando de forma voluntaria en Comodoro Rivadavia, y dar a conocer a la comunidad en general sobre la misión del trabajo, accionar y planes a futuro, de los distintos grupos, para crear conciencia y motivar la participación activa de la sociedad en las temáticas que atraviesan nuestra sociedad.
+          </p>
+          <p>
+            Durante el transcurso de la misma, se llevarán a cabo diferentes actividades como exposiciones y charlas de información relacionadas con las temáticas del evento ya que el objetivo del mismo es aprender, reflexionar y entender que todos pueden participar, que la solidaridad no tiene exclusividad, barreras ni límites, y los interesados en sumarse al trabajo podrán hacerlo.
+          </p>
+          <div id="info" class="center">
+            <div><b>Lugar:</b> Centro de Informacion pública</div>
+            <div><b>Día:</b> 04 de Diciembre de 2016</div>
+            <div><b>Hora:</b> 14:00 Hs</div>
+          </div>
         </div>
       </section>
       <section id="map">
@@ -134,7 +143,7 @@
             <div class="col s12 m6 l6">
               <div class="program-item program-item-blue">
                 <div class="pi-hour">Hora: 17:40hs</div>
-                <div class="pi-title">Charla motivacional</div>
+                <div class="pi-title">Panel con voluntarios de organizaciones locales</div>
               </div>
             </div>
           </div>
@@ -147,16 +156,22 @@
             </div>
             <div class="col s12 m6 l6">
               <div class="program-item program-item-green">
-                <div class="pi-hour">Hora: 18:40hs</div>
+                <div class="pi-hour">Hora: 19:10hs</div>
                 <div class="pi-title">Banda de Rock (El Reflejo)</div>
               </div>
             </div>
           </div>
           <div class="row">
-            <div class="col s12 m12 l12">
+            <div class="col s12 m6 l6">
               <div class="program-item program-item-pink">
-                <div class="pi-hour">Hora: 18:40hs</div>
+                <div class="pi-hour">Hora: 19:50hs</div>
                 <div class="pi-title">Banda de Rock</div>
+              </div>
+            </div>
+            <div class="col s12 m6 l6">
+              <div class="program-item program-item-purple">
+                <div class="pi-hour">Hora: 20:40hs</div>
+                <div class="pi-title">Cierre</div>
               </div>
             </div>
           </div>

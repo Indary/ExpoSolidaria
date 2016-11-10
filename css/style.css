@@ -201,7 +201,13 @@ nav{
 #about{
 		background-color: #386aa5;
 		color: #eee;
+		font-size: 1.3em;
 }
+
+#info{
+	margin-top: 3em;
+}
+
 
 #map{
 	border-top: 2px solid #e82583;
