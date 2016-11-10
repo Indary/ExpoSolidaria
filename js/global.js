@@ -1,3 +1,23 @@
+function removePreloader(){
+  $('html').css('overflow', 'auto');
+  $('body').css('display', 'inherit');
+  $('#preloader').remove();
+}
+
+function addPreloader(){
+  $('html').append('<div id="preloader">');
+  var logo= $('<div class="logo">').appendTo('#preloader');
+  $('#preloader').append('<div class="loading">');
+  $(logo).css('margin-top', ($(window).height()-$(logo).height())/2);
+}
+
+
+$(window).on("load", function() {
+  removePreloader();
+});
+$('html').css('overflow', 'hidden');
+addPreloader();
+
 function toSection(target){
   $('html, body').stop().animate({
       scrollTop: $('#' +target).offset().top -50

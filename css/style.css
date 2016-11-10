@@ -1,3 +1,52 @@
+#preloader{
+	background-color:#e82583;
+	z-index: 100000;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top:0;
+	left:0;
+	color: #fff;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#preloader .loading {
+	-webkit-animation: loadingAnimation 2s infinite linear;
+	-moz-animation: loadingAnimation 2s infinite linear;
+	-o-animation: loadingAnimation 2s infinite linear;
+	animation: loadingAnimation 2s infinite linear;
+	font-weight: bold;
+}
+
+#preloader .loading::after {
+  content: "#ExpoSolidaria";
+}
+
+@-webkit-keyframes loadingAnimation {
+	0% { opacity: 1}
+	50% { opacity: 0 }
+	100% { opacity: 1 }
+}
+
+@-moz-keyframes loadingAnimation {
+	0% { opacity: 0.3}
+	20% { opactiy: 1 }
+	100% { opacity: 1 }
+}
+
+@-o-keyframes loadingAnimation {
+	0% { opacity: 1}
+	50% { opacity: 0 }
+	100% { opacity: 1 }
+}
+
+@keyframes loadingAnimation {
+	0% { opacity: 1}
+	50% { opacity: 0 }
+	100% { opacity: 1 }
+}
+
 html, body{
 	margin: 0;
 	padding: 0;
@@ -77,7 +126,7 @@ nav{
 	-o-background-size: cover;
 	background-size: cover;
 	position: relative;
-
+	border-bottom: 2px solid #e82583;
 }
 
 #bg > .override{
@@ -129,6 +178,8 @@ nav{
 	-o-background-size: cover;
 	background-size: cover;
 	position: relative;
+	border-top: 2px solid #e82583;
+	border-bottom: 2px solid #e82583;
 }
 
 .quote-content{
@@ -335,7 +386,8 @@ nav{
 
 footer{
 	border-top: 2px solid #e82583;
-	background-color: #fafafa;
+	background-color: #386aa5 !important;
+	color: #fff;
 }
 
 @media only screen and (max-device-width:480px){

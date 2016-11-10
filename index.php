@@ -44,6 +44,14 @@
     <script src="js/global.js"></script>
   </head>
   <body>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-86160268-2', 'auto');
+      ga('send', 'pageview');
+    </script>
     <header>
       <nav id="nav">
         <div class="nav-wrapper">
@@ -434,7 +442,7 @@
               <div class="ong-box ong-box-green">
                 <div class="ong-box-container">
                   <div class="ong-image">
-                    <!--<img src="img/ongs">-->
+                    <img src="img/ongs/rotary.png">
                   </div>
                   <div class="ong-description">
                     Institución Internacional Solidaria con la amplio programa de actividades comunitarias
@@ -566,7 +574,7 @@
         </div>
       </section>
     </div>
-    <footer id="contact" class="tpink">
+    <footer id="contact">
       <div class="container">
         <div class="row">
           <div class="col l12 m12 s12">
@@ -587,8 +595,8 @@
       <div class="center">
         <div class="container">
           <div>
-            <b class="i-dark">Made with <span class="i-red i-heart">&#9825;</span> by</b><br>
-            <a href="http://www.indary.org" target="_blank"><span class="indary i-red">Indary!</span></a>
+            <b class="i-white">Made with <span class="i-red i-heart">&#9825;</span> by</b><br>
+            <a href="http://www.indary.org" target="_blank"><span class="indary i-white">Indary!</span></a>
           </div>
         </div>
       </div>
