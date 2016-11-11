@@ -77,7 +77,7 @@
     <div id="bg">
       <div class="override"></div>
       <div class="center">
-        <h1 class="">#exposolidaria</h1>
+        <h1 class="">#ExpoSolidaria</h1>
         <h3 class="">UNA FORMA DE HACER</h3>
         <h4 class="expo-date">04 DE DICIEMBRE - COMODORO RIVADAVIA</h4>
         <div id="timer"></div>
@@ -197,7 +197,7 @@
                   </div>
                   <div class="ong-description">
                     Esperanza vida es una fundación en trámite conformada por un grupo de pacientes trasplantados, en lista de espera y en diálisis que nos reunimos con la misión de promover la donación de órganos en la ciudad de Comodoro Rivadavia.
-                    Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
+                    <br><br>Brindamos contención y asistencia a los pacientes trasplantados y en espera. Nos ocupamos de sus  necesidades. Estamos abocados especialmente a hacer cumplir con la Ley de trasplante.
                   </div>
                   <div class="ong-name">Esperanza Y Vida</div>
                   <div class="ong-contact">
@@ -219,8 +219,8 @@
                     <img src="img/ongs/payamedicos.jpg">
                   </div>
                   <div class="ong-description">
-                    Payamedicos Asociacion Civil es una ONG sin fines de lucro fundada en el año 2002 por el Dr Jose Pellucchi.<br>
-                    Su mision es contribuir a la salud emocional del paciente hospitalizado. Para tal fin se utilizan recursos psicologicos y artisticos relacionados con el payaso teatral, juegos, musica, teatro, magia y el arte humoristico en general. Los Payamedicos realizan intervenciones escenico-terapeuticas con un abordaje a traves de la tecnica del payaso teatral adaptandola al ambito hospitalario con una etica, estetica y deontologia propia. El grupo esta cartografiado por psiquiatras y psicologos con amplia experiencia en niños y adultos internados por diversas patologias organicas.
+                    Nuestra mision es contribuir a la salud emocional del paciente hospitalizado. Para tal fin utilizamos recursos psicologicos y artisticos relacionados con el payaso teatral, juegos, música, teatro, magia y el arte humoristico en general.
+                    <br><br>Realizamos intervenciones escenico-terapeuticas con un abordaje a traves de la tecnica del payaso teatral adaptandola al ambito hospitalario con una etica, estetica y deontologia propia.
                   </div>
                   <div class="ong-name">Payamedicos</div>
                   <div class="ong-contact">
@@ -240,8 +240,8 @@
                     <img src="img/ongs/voluntariado.png">
                   </div>
                   <div class="ong-description">
-                    Somos un grupo de personas que donan tiempo y dedicación al servicio del paciente internado y familiares.<br>
-                    El voluntariado es la organización de personas con gran dosis de humanidad que ofrece un servicio desinteresado, constante, y eficaz. Nuestro objetivo es: dar amor y consuelo al enfermo,colaborar con el paciente y sus familiares, escuchar las angustias del paciente., ayudar a afrontar su enfermedad sin sentirse solo.
+                    Somos un grupo de personas que donan tiempo y dedicación al servicio del paciente internado y familiares.<br><br>
+                    Nuestro objetivo es: dar amor y consuelo al enfermo, colaborar con el paciente y sus familiares, escuchar las angustias del paciente., ayudar a afrontar su enfermedad sin sentirse solo.
                   </div>
                   <div class="ong-name">Voluntariado Hospital Regional</div>
                   <div class="ong-contact">
@@ -264,7 +264,7 @@
                     <img src="img/ongs/corazoncitofeliz.jpg">
                   </div>
                   <div class="ong-description">
-                    Somos un grupo de personas que aprecian la vida, que entienden la solidaridad como una actitud constante.<br>
+                    Somos un grupo de personas que aprecian la vida, que entienden la solidaridad como una actitud constante.<br><br>
                     Buscamos crear un lazo entre las familias y que ellas sean las protagonistas de transformar sus vidas.
                   </div>
                   <div class="ong-name">Juntos por un corazoncito feliz</div>
@@ -351,7 +351,7 @@
                     <img src="img/ongs/tupapel.png">
                   </div>
                   <div class="ong-description">
-                    Plantamos arboles y sembramos conciencia...<br>
+                    Plantamos arboles y sembramos conciencia...<br><br>
                     Desde el comienzo (mediados de 2014) a la fecha encaminamos el reciclado de mas de 48.000 kg de papel y sumamos 225 nuevos arboles a la ciudad.
                   </div>
                   <div class="ong-name">Tu papel es muy importante</div>
@@ -370,8 +370,8 @@
                     <img src="img/ongs/ceviof.jpg">
                   </div>
                   <div class="ong-description">
-                    Brindamos asesoramiento ,información y acompañamiento en temas de Violencia Familiar, Maltrato infantil y Abuso sexual Infantil, tanto a víctimas como a referentes de la comunidad e instituciones.
-                    <br>
+                    Brindamos asesoramiento, información y acompañamiento en temas de Violencia Familiar, Maltrato infantil y Abuso sexual Infantil, tanto a víctimas como a referentes de la comunidad e instituciones.
+                    <br><br>
                     Además, realizamos acciones de capacitación, investigación y difusión de la problemática de la Violencia Familiar, tendientes a la sensibilización y la creación de redes de contención.
                   </div>
                   <div class="ong-name">Centro de Violencia Familiar</div>
@@ -533,7 +533,7 @@
                   </div>
                   <div class="ong-description">
                     La familia Leonística está compuesta por más de 1.400.000 hombres, mujeres y jóvenes, diferentes en muchos aspectos, pero con un mismo objetivo: producir cambios positivos en nuestras comunidades.
-                    En la actualidad hay más de 46.000 Clubes de Leones ubicados en 207 países y áreas geográficas, desde allí se preocupan por las necesidades de las comunidades locales y del mundo sirviendo con alegría a quienes más necesitan.
+                    <br><br>En la actualidad hay más de 46.000 Clubes de Leones ubicados en 207 países y áreas geográficas, desde allí se preocupan por las necesidades de las comunidades locales y del mundo sirviendo con alegría a quienes más necesitan.
                   </div>
                   <div class="ong-name">Club de Leones de Rada Tilly</div>
                   <div class="ong-contact">
