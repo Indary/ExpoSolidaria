@@ -421,7 +421,7 @@
                   <div class="ong-name">Feliz en tu día</div>
                   <div class="ong-contact">
                     (297) 414-7197<br>
-                    (297) 414-7197
+                    (297) 623-9448
                   </div>
                 </div>
                 <div class="ong-box-links">
@@ -436,7 +436,8 @@
                     <img src="img/ongs/fundacioncrecer.jpg">
                   </div>
                   <div class="ong-description">
-                    Trabajamos para Incluir a Personas con Discapacidad o niños con Necesidades Educativas Especiales y sus familias a la comunidad, por medio de cinco programas de atención integral.
+                    La discapacidad no es un problema individual de la persona con discapacidad , sino los obstáculos y barreras que crea la sociedad impidiendo su inclusión.<br><br>
+                    Desde 1986 trabajamos para Incluir a Personas con Discapacidad y niños con Necesidades Educativas Especiales y sus familias a la comunidad, por medio de cinco programas de atención integral: Consultorio de Especialidades Pediátricas, Centro Ocupacional, Centro de Rehabilitación, Centro de aprendizaje y Fortalecimiento Familiar.
                   </div>
                   <div class="ong-name">Fundación Crecer</div>
                   <div class="ong-contact">
@@ -553,7 +554,10 @@
                     <img src="img/ongs/cruzroja.jpg">
                   </div>
                   <div class="ong-description">
-                    Cruz Roja Argentina es una asociación civil de bien común, humanitaria y de carácter voluntario. Fundada el día 10 de junio de 1880 y constituida de acuerdo con los Convenios de Ginebra de 1949 (y sus Protocolos Adicionales), de los cuales la República Argentina es parte.
+                    Somos una asociación civil de bien común, humanitaria y de carácter voluntario. Fundada el día 10 de junio de 1880 y constituida de acuerdo con los Convenios de Ginebra de 1949.<br><br>
+                    Tenemos por Misión Institucional la de: contribuir a mejorar la vida de las personas, en especial aquellas que se encuentren en situación de vulnerabilidad.
+                    Para el cumplimiento de la misma desarrollará esencial y necesariamente, acciones humanitarias destinadas a personas y comunidades vulnerables.<br><br>
+                    En el pais existen 65 Filiales, la de Comodoro fue creada el 01 de diciembre de 1944.
                   </div>
                   <div class="ong-name">Cruz Roja Argentina</div>
                   <div class="ong-contact">
@@ -569,21 +573,23 @@
               </div>
             </div>
             <div class="col s12 m4 l4">
-              <!--<div class="ong-box ong-box-green">
+              <div class="ong-box ong-box-green">
                 <div class="ong-box-container">
                   <div class="ong-image">
-                    <img src="img/ongs/">
+                    <img src="img/ongs/alco.jpg">
                   </div>
                   <div class="ong-description">
+                    ALCO (Organización de Lucha Contra la Obesidad) es un grupo de autoayuda mutua que brinda apoyo a personas con sobrepeso, obesidad y problemas alimentarios.
                   </div>
-                  <div class="ong-name"></div>
+                  <div class="ong-name">ALCO</div>
                   <div class="ong-contact">
                   </div>
                 </div>
                 <div class="ong-box-links">
-                  <a href="" target="_blank"><span class="facebook"></span></a>
+                  <a href="https://www.facebook.com/ALCO-Comodoro-153509769033" target="_blank"><span class="facebook"></span></a>
+                  <a href="http://www.fundacionalco.org" target="_blank"><span class="web"></span></a>
                 </div>
-              </div>-->
+              </div>
             </div>
           </div>
         </div>
