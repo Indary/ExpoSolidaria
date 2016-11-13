@@ -592,6 +592,25 @@
               </div>
             </div>
           </div>
+          <div class="row">
+            <div class="col s12 m4 l4">
+              <div class="ong-box ong-box-pink">
+                <div class="ong-box-container">
+                  <div class="ong-image">
+                    <img src="img/ongs/lombricultura.bmp">
+                  </div>
+                  <div class="ong-description">
+                    Grupo creado para difundir la técnica de lombricultura con el objetivo de reutilizar los residuos orgánicos generados, que constituyen un 50% de nuestra basura diaria.
+                    <br><br>  
+                    Se brinda asesoramiento, pero también se estimula que los participantes se ayuden entre sí mostrando sus experiencias y regalando lombrices a para que otros puedan sumarse a la técnica.
+                  </div>
+                  <div class="ong-name">Lombricultura</div>
+                  <div class="ong-contact"></div>
+                </div>
+                <div class="ong-box-links"></div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     </div>
