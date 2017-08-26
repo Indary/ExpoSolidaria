@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Rancho';
+  src:
+       url('fonts/rancho/rancho-regular.ttf') format('truetype'),
+       url('fonts/rancho/rancho-regular.woff') format('woff')
+}
+
+.indary{
+  font-family: Rancho;
+  font-size: 2em;
+}
+
+.i-red{
+  color: #f75353;
+}
+
+.i-white{
+  color: #fff;
+}
+
+.i-dark{
+  color: #444;
+}
+
+.i-heart{
+  font-size: 1.3em;
+}

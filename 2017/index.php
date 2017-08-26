@@ -1,17 +1,16 @@
 <?php
   define('BASE_URL', 'http://exposolidaria.com');
-  function base_url($path=''){
-    return BASE_URL . '/' . $path;
-  }
+  define('YEAR', 2017);
+  function base_url($path=''){ return BASE_URL . '/' . $path; }
 ?>
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Exposolidaria 2016 - Una forma de hacer</title>
+    <title>Exposolidaria 2017 - Una forma de hacer</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
     <meta name="keywords" content="">
-    <meta name="description" content="Exposolidaria 2016 - Una forma de hacer">
+    <meta name="description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
     <meta name="author" content="Indary">
     <meta name="theme-color" content="#e82583">
     <!-- TWITTER -->
@@ -19,18 +18,18 @@
     <meta name="twitter:site" content="@exposolidara">
     <meta name="twitter:creator" content="@indary">
     <meta name="twitter:title" content="Expo Solidaria">
-    <meta name="twitter:description" content="">
+    <meta name="twitter:description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
     <meta name="twitter:image:src" content="<?php echo base_url('img/logo.jpg')?>">
     <!-- FACEBOOK -->
     <meta property="og:site_name" content="Expo Solidaria">
     <meta property="og:url" content="<?php echo base_url()?>">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Exposolidaria - Una forma de hacer">
-    <meta property="og:description" content="">
+    <meta property="og:title" content="Exposolidaria">
+    <meta property="og:description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
     <meta property="og:image" content="<?php echo base_url('img/logo.jpg')?>">
     <!-- G++ -->
     <meta itemprop="name" content="Exposolidaria">
-    <meta itemprop="description" content="">
+    <meta itemprop="description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
     <meta itemprop="image" content="<?php echo base_url('img/logo.jpg')?>">
     <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
     <!--Import Google Icon Font-->
@@ -39,12 +38,25 @@
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="libs/wow/css/libs/animate.css" type="text/css">
     <link rel="stylesheet" href="libs/indary/css/indary.css" type="text/css">
+    <link rel="stylesheet" href="libs/vegas/vegas.min.css" type="text/css">
+
     <script src="libs/jquery/jquery-1.11.3.min.js"></script>
+    <script src="libs/vegas/vegas.min.js"></script>
     <script src="libs/materialize/js/materialize.min.js"></script>
     <script src="js/global.js"></script>
   </head>
   <body>
+    <div id="fb-root"></div>
     <script>
+      //facebook
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.10&appId=1379359142086926";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+      //analytics
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
         m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -61,13 +73,13 @@
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul id="menu" class="right hide-on-med-and-down">
             <li class="menu-item" data-target="about">ACERCA DE</li>
-            <li class="menu-item" data-target="program">PROGRAMA</li>
+            <!--<li class="menu-item" data-target="program">PROGRAMA</li>-->
             <li class="menu-item" data-target="ongs">PARTICIPAN</li>
             <li class="menu-item" data-target="contact">CONTACTO</li>
           </ul>
           <ul class="side-nav" id="mobile-demo">
             <li class="menu-item" data-target="about">ACERCA DE</li>
-            <li class="menu-item" data-target="program">PROGRAMA</li>
+            <!--<li class="menu-item" data-target="program">PROGRAMA</li>-->
             <li class="menu-item" data-target="ongs">PARTICIPAN</li>
             <li class="menu-item" data-target="contact">CONTACTO</li>
           </ul>
@@ -77,9 +89,10 @@
     <div id="bg">
       <div class="override"></div>
       <div class="center">
-        <h1 class="">#ExpoSolidaria</h1>
-        <h3 class="">UNA FORMA DE HACER</h3>
-        <h4 class="expo-date">04 DE DICIEMBRE - COMODORO RIVADAVIA</h4>
+        <h1>#ExpoSolidaria</h1>
+        <h3>UNA FORMA DE HACER</h3>
+        <h4>03 DE NOVIEMBRE</h4>
+        <h6>COMODORO RIVADAVIA</h6>
         <div id="timer"></div>
       </div>
     </div>
@@ -94,7 +107,7 @@
           </p>
           <div id="info" class="center">
             <div><b>Lugar:</b> Centro de Informacion pública</div>
-            <div><b>Día:</b> 04 de Diciembre de 2016</div>
+            <div><b>Día:</b> 03 de Noviembre de <?php echo YEAR; ?></div>
             <div><b>Hora:</b> 14:00 Hs</div>
           </div>
         </div>
@@ -102,87 +115,10 @@
       <section id="map">
         <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2778.4452858240275!2d-67.4747542706295!3d-45.86240013634444!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb8af8c1ef0469af6!2sCentro+de+Informacion+Publica!5e0!3m2!1ses-419!2sar!4v1477261571090" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
       </section>
-      <section id="program" class="">
-        <div class="container">
-          <h5 class="title tpink">PROGRAMA</h5>
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-blue">
-                <div class="pi-hour">Hora: 14:00hs</div>
-                <div class="pi-title">Apertura</div>
-              </div>
-            </div>
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-orange">
-                <div class="pi-hour">Hora: 14:30hs</div>
-                <div class="pi-title">Barrileteada</div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-green">
-                <div class="pi-hour">Hora: 14:30hs</div>
-                <div class="pi-title">Cuenta cuentos</div>
-              </div>
-            </div>
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-pink">
-                <div class="pi-hour">Hora: 16:00hs</div>
-                <div class="pi-title">Charla medio ambiente</div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-purple">
-                <div class="pi-hour">Hora: 17:00hs</div>
-                <div class="pi-title">Charla fortalecimiento a la organizaciones</div>
-              </div>
-            </div>
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-blue">
-                <div class="pi-hour">Hora: 17:40hs</div>
-                <div class="pi-title">Panel con voluntarios de organizaciones locales</div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-orange">
-                <div class="pi-hour">Hora: 18:40hs</div>
-                <div class="pi-title">Tango (Amigos del Tango)</div>
-              </div>
-            </div>
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-green">
-                <div class="pi-hour">Hora: 19:10hs</div>
-                <div class="pi-title">Banda de Rock (El Reflejo)</div>
-              </div>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-pink">
-                <div class="pi-hour">Hora: 19:50hs</div>
-                <div class="pi-title">Banda de Rock</div>
-              </div>
-            </div>
-            <div class="col s12 m6 l6">
-              <div class="program-item program-item-purple">
-                <div class="pi-hour">Hora: 20:40hs</div>
-                <div class="pi-title">Cierre</div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
       <div class="quote">
         <div class="quote-content">
-          <div class="container center">
-            <h3><b>CUANDO YO DOY ME DOY A MÍ MISMO</b></h3>
-            <h4>Walt Whitman</h4>
-          </div>
+          <h3><b>CUANDO YO DOY ME DOY A MÍ MISMO</b></h3>
+          <h4>Walt Whitman</h4>
         </div>
       </div>
       <section id="ongs">
@@ -601,7 +537,7 @@
                   </div>
                   <div class="ong-description">
                     Grupo creado para difundir la técnica de lombricultura con el objetivo de reutilizar los residuos orgánicos generados, que constituyen un 50% de nuestra basura diaria.
-                    <br><br>  
+                    <br><br>
                     Se brinda asesoramiento, pero también se estimula que los participantes se ayuden entre sí mostrando sus experiencias y regalando lombrices a para que otros puedan sumarse a la técnica.
                   </div>
                   <div class="ong-name">Lombricultura</div>
@@ -614,29 +550,25 @@
         </div>
       </section>
     </div>
-    <footer id="contact">
+    <footer>
       <div class="container">
         <div class="row">
-          <div class="col l12 m12 s12">
+          <div class="col l6 m12 s12">
             <p class="center">
-              Por dudas y sugerencias
+              Por dudas y sugerencias<br>
+              <b>comunicacion@crecerfundacion.org.ar</b>
             </p>
-            <div class="center">
-              <h4><b>comunicacion@crecerfundacion.org.ar</b></h4>
+            <p class="center author">
+              <b class="i-white">Made with <span class="i-red i-heart">&#9825;</span> by</b><br>
+              <a href="http://www.indary.org" target="_blank"><span class="indary i-white">Indary!</span></a>
+            </p>
+          </div>
+          <div class="col l6 m12 s12">
+            <div class="fb-page" data-href="https://www.facebook.com/exposolidariacr/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+              <blockquote cite="https://www.facebook.com/exposolidariacr/" class="fb-xfbml-parse-ignore">
+                <a href="https://www.facebook.com/exposolidariacr/">Expo Solidaria</a>
+              </blockquote>
             </div>
-          </div>
-          <div class="col l12 m12 s12">
-            <ul id="contact-list">
-              <li></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-      <div class="center">
-        <div class="container">
-          <div>
-            <b class="i-white">Made with <span class="i-red i-heart">&#9825;</span> by</b><br>
-            <a href="http://www.indary.org" target="_blank"><span class="indary i-white">Indary!</span></a>
           </div>
         </div>
       </div>
