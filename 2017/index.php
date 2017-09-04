@@ -19,19 +19,19 @@
     <meta name="twitter:creator" content="@indary">
     <meta name="twitter:title" content="Expo Solidaria">
     <meta name="twitter:description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
-    <meta name="twitter:image:src" content="<?php echo base_url('img/logo.jpg')?>">
+    <meta name="twitter:image:src" content="<?php echo base_url('img/art/logo.png')?>">
     <!-- FACEBOOK -->
     <meta property="og:site_name" content="Expo Solidaria">
     <meta property="og:url" content="<?php echo base_url()?>">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Exposolidaria">
     <meta property="og:description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
-    <meta property="og:image" content="<?php echo base_url('img/logo.jpg')?>">
+    <meta property="og:image" content="<?php echo base_url('img/art/logo.png')?>">
     <!-- G++ -->
     <meta itemprop="name" content="Exposolidaria">
     <meta itemprop="description" content="Sitio web de la ExpoSolidaria <?php echo YEAR; ?>">
-    <meta itemprop="image" content="<?php echo base_url('img/logo.jpg')?>">
-    <link rel="shortcut icon" type="image/png" href="img/favicon.png" />
+    <meta itemprop="image" content="<?php echo base_url('img/art/logo.png')?>">
+    <link rel="shortcut icon" type="image/png" href="img/art/favicon.png" />
     <!--Import Google Icon Font-->
      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="libs/materialize/css/materialize.min.css" type="text/css">
@@ -68,7 +68,7 @@
       <nav id="nav">
         <div class="nav-wrapper">
           <div class="brand-logo center">
-            <img id="logo_blue" src="img/logo.jpg"/>
+            <img id="logo_blue" src="img/art/logo.png"/>
           </div>
           <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
           <ul id="menu" class="right hide-on-med-and-down">
