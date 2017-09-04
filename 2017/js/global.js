@@ -42,12 +42,15 @@ $(document).ready(function(){
     slides: [
       { src: "img/slider/slider1.jpg" },
       { src: "img/slider/slider2.jpg" },
-      { src: "img/slider/slider3.jpg" }
+      { src: "img/slider/slider3.jpg" },
+      { src: "img/slider/slider4.jpg" },
+      { src: "img/slider/slider5.jpg" },
+      { src: "img/slider/slider6.jpg" }
     ]
   });
 
   var wh= $(window).outerHeight(true) -100;
-  wh= wh >= 500 ? wh : 500;
+  wh= wh >= 550 ? wh : 550;
   $('#bg').css('height', wh);
   $('#bg .override').css('min-height', wh);
   $(".button-collapse").sideNav();
